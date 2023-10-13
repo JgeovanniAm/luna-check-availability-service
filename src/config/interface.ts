@@ -13,7 +13,9 @@ export interface IReqBodyEvents {
 }
 
 export interface IRooms {
-  name: string;
+  "name-en": string;
+  "name-es": string;
+  "name-fr": string;
   num: number | string;
   'max-persons': number;
   "description-en": string;

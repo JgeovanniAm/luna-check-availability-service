@@ -1,7 +1,9 @@
 {
   "#1": {
     "bg": "/assets/fotos-hotel/cabine1/IMG_5991.webp",
-    "name": "Room #1",
+    "name-en": "Room #1",
+    "name-es": "Habitación #1",
+    "name-fr": "Chambre #1",
     "num": "1",
     "max-persons": 2,
     "description-en": "This accommodation features a room for two people which includes a double bed and a private bathroom. Additionally, it has a terrace with a comfortable hammock and a ceiling fan for greater comfort. It also has a mini refrigerator to store your drinks and fresh food during your stay.",
@@ -62,7 +64,9 @@
   },
   "#2": {
     "bg": "/assets/fotos-hotel/cabine2/IMG_1510.webp",
-    "name": "Room #2",
+    "name-en": "Room #2",
+    "name-es": "Habitación #2",
+    "name-fr": "Chambre #2",
     "num": 2,
     "max-persons": 3,
     "description-en": "This accommodation features a room for two people with a double bed and a private bathroom. Additionally, there is a terrace with a comfortable hammock and a ceiling fan. There is also a mini fridge available.",
@@ -123,7 +127,9 @@
   },
   "#3": {
     "bg": "/assets/fotos-hotel/cabine3/IMG_1485.webp",
-    "name": "Room #3",
+    "name-en": "Room #3",
+    "name-es": "Habitación #3",
+    "name-fr": "Chambre #3",
     "num": 3,
     "max-persons": 2,
     "description-en": "This accommodation features a room for two people with a double bed and a private bathroom. Additionally, there is a terrace with a comfortable hammock and a ceiling fan. There is also a mini fridge available.",
@@ -184,7 +190,9 @@
   },
   "#4": {
     "bg": "/assets/fotos-hotel/cabine4/IMG_2464.webp",
-    "name": "Bungalow #4",
+    "name-en": "Bungalow #4",
+    "name-es": "Bungalow #4",
+    "name-fr": "Bungalow #4",
     "num": 4,
     "max-persons": 4,
     "description-en": "This accommodation is an open space for four people, with a double bed in the mezzanine and two single beds, private bathroom, equipped kitchen, terrace with a hammock and ceiling fan.",
@@ -246,7 +254,9 @@
   },
   "#5": {
     "bg": "/assets/fotos-hotel/cabine5/IMG_0158.jpg",
-    "name": "Bungalow #5",
+    "name-en": "Bungalow #5",
+    "name-es": "Bungalow #5",
+    "name-fr": "Bungalow #5",
     "num": "5",
     "max-persons": 2,
     "description-en": "This accommodation is an open space for two people, with a double bed, private bathroom, equipped kitchen, terrace with a hammock and ceiling fan.",
@@ -307,8 +317,10 @@
     }
   },
   "#6": {
-    "bg": "/assets/fotos-hotel/cabine5/IMG_0158.jpg",
-    "name": "Bungalow #6",
+    "bg": "/assets/fotos-hotel/cabine6/IMG_3443.jpg",
+    "name-en": "Bungalow #6",
+    "name-es": "Bungalow #6",
+    "name-fr": "Bungalow #6",
     "num": 6,
     "max-persons": 4,
     "description-en": "Accommodation for 4 people with a private bedroom featuring a double bed and two single beds in the common area. Additionally, there is a private bathroom, equipped kitchen, a terrace with a hammock, and a ceiling fan.",
@@ -370,7 +382,9 @@
   },
   "#7": {
     "bg": "/assets/fotos-hotel/cabine7/IMG_1466.jpg",
-    "name": "Bungalow #7",
+    "name-en": "Bungalow #7",
+    "name-es": "Bungalow #7",
+    "name-fr": "Bungalow #7",
     "num": 7,
     "max-persons": 3,
     "description-en": "Accommodation for 2 people with a double bed in the common area. Additionally, there is a private bathroom, equipped kitchen, a terrace with a hammock, ceiling fan, and air conditioning.",
@@ -432,7 +446,9 @@
   },
   "#8": {
     "bg": "/assets/fotos-hotel/cabine8/6.jpg",
-    "name": "Bungalow #8",
+    "name-en": "Bungalow #8",
+    "name-es": "Bungalow #8",
+    "name-fr": "Bungalow #8",
     "num": 8,
     "max-persons": 2,
     "description-en": "This accommodation features a room for two people which includes a double bed and a private bathroom. Additionally, it has a terrace with a comfortable hammock and a ceiling fan for greater comfort. It also has a mini refrigerator to store your drinks and fresh food during your stay.",
